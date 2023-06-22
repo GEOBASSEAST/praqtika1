@@ -7,4 +7,4 @@ made branch1
 branch3 is here
 git pull
 new branch
-კონფლიqქტი github
+კონფლიქტი
