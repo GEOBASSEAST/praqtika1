@@ -6,3 +6,4 @@ made branch1
 ესეც branch2
 branch3 is here
 git pull
+new bran
